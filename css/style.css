@@ -1,0 +1,9 @@
+div{
+    background-color: darksalmon;
+    height: 400px;
+    width: 400px;
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-left-color: darkviolet;
+    border-radius: 10px;
+}
